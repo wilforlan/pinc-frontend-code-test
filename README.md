@@ -10,13 +10,13 @@ Hi there, if you ar solving this challenge, it means you have made headways. Awe
 You will be required to write the aswers to the questions below.
 
 > Concept of linting 
-Understanding of promises and at least an idea of async/await and why they're used over promises
-Why do we need states in applications? 
-Why do we need global state management with something like Redux
-What is cascading in CSS and what problem does styled components or similar CSS in JS solutions solve
-What is scoping in JS? 
-What is lexical scope?
-What is the idea of immutability or immutable state
+> Understanding of promises and at least an idea of async/await and why they're used over promises
+> Why do we need states in applications? 
+> Why do we need global state management with something like Redux
+> What is cascading in CSS and what problem does styled components or similar CSS in JS solutions solve
+> What is scoping in JS? 
+> What is lexical scope?
+> What is the idea of immutability or immutable state
 
 ## Coding Test
 
@@ -45,7 +45,7 @@ Connecting to Questions API
 
 Method: GET
 
-Endpoint:  [https://staging-api.pincapp.com/api/questions](https://staging-api.pincapp.com/api/questions)
+Endpoint:  [https://apinew.pincapp.com/api/questions](https://apinew.pincapp.com/api/questions)
 
 Create a fork of this repo, update the Repo with your code, then put up a version on heroku.
 
