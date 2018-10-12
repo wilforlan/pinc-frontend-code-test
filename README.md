@@ -2,13 +2,13 @@
 
 ## PINC frontend developer test
 
-Hi there, if you ar solving this challenge, it means you have made headways. Awesome
+Hi there, if you are solving this challenge, it means you have made headways. Awesome
 
 
 # Test One
 
 You will be required to write the aswers to the questions below.
-
+```
 > Concept of linting 
 
 > Understanding of promises and at least an idea of async/await and why they're used over promises
@@ -24,18 +24,18 @@ You will be required to write the aswers to the questions below.
 > What is lexical scope?
 
 > What is the idea of immutability or immutable state
-
+```
 ## Coding Test
 
 You will be required to convert this UI to frontend app. 
 
-Using: React and Redux.
+Using: React.
 
-Page One
+Screen One
 
 ![Alt text](https://monosnap.com/image/FgGejxjbjTj21B41Mve76Hg0vyWFU8)
 
-Page Two
+Screen Two
 
 On click on the Start a conversation, the input box should disaplay like so
 
@@ -46,13 +46,14 @@ Make Request to Our API to build display real questions, emojis, latest answerer
 
   
 
-Connecting to Questions API
+## Connecting to Questions API
 
   
-
+```
 Method: GET
 
-Endpoint:  [https://apinew.pincapp.com/api/questions](https://apinew.pincapp.com/api/questions)
+Endpoint:  https://api.divercity.io/api/questions
+```
 
 Create a fork of this repo, update the Repo with your code, then put up a version on heroku.
 
